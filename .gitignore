@@ -1,0 +1,7 @@
+/gradebook.json
+/demo-gradebook.json
+/*.json.lock
+/.gradebook-*.tmp
+/*.csv
+/*.exe
+/hw2
